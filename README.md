@@ -1,7 +1,9 @@
 # 👋 Hi there! I'm Karkaroff
 
 Welcome to my GitHub profile!  
-💻 Developer in progress | 🎨 Passionate about clean code and great UI | 🚀 Always eager to learn something new
+💻 Developer in progress | 
+🎨 Passionate about clean code and great UI | 
+🚀 Always eager to learn something new |
 
 ---
 
