@@ -19,9 +19,7 @@ Welcome to my GitHub profile!
 - 🎨 [Hangman](https://github.com/Karkar0ff/Igra-vjesala) 
 
 ---
-
-//## 🤝 Let's Connect
-
+## 🤝 Let's Connect
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
