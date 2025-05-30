@@ -9,9 +9,9 @@ Welcome to my GitHub profile!
 
 ## 📈 Currently Working On
 
-- 💡 Building [SkokoRama] – small 2D platformer game
+- 💡 Building [FocusForger] – small WPF study-helper App
 - ✍️ Writing tutorials and blog posts about
-- 📚 Learning [OpenGL]
+- 📚 Learning [WPF]
 
 ---
 
