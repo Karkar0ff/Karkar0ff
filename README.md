@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 
 ## 🗂️ Featured Projects
 
-- 🔧 [FocusForger](https://github.com/Karkar0ff/FocusForger---PAUSED)) 
-- 🎨 [Cryptex](https://github.com/Karkar0ff/Cryptex)
+- 🔧 [FocusForger](https://github.com/Karkar0ff/FocusForger---PAUSED)
+- ₦₪௹ [Cryptex](https://github.com/Karkar0ff/Cryptex)
 
 ---
 ## 🤝 Let's Connect
