@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ## 📈 Currently Working On
 
-- 💡 Building [FocusForger] – small WPF study-helper App
+- 💡 Building [Cryptex] – small WPF encryption application.
 - ✍️ Writing tutorials and blog posts about
 - 📚 Learning [WPF]
 
@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 
 ## 🗂️ Featured Projects
 
-- 🔧 [SkokoRama](https://github.com/Karkar0ff/SkokoRama-1.0) 
-- 🎨 [Hangman](https://github.com/Karkar0ff/Igra-vjesala) 
+- 🔧 [FocusForger](https://github.com/Karkar0ff/FocusForger---PAUSED)) 
+- 🎨 [Cryptex](https://github.com/Karkar0ff/Cryptex)
 
 ---
 ## 🤝 Let's Connect
